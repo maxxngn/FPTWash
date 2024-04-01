@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FPTWash.props" />
+</Project>
